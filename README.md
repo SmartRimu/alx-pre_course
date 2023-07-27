@@ -1,1 +1,1 @@
-My first readme
+I am glad i joined ALX
